@@ -1,4 +1,4 @@
 [submodule "monero"]
 	path = monero
-	url = https://github.com/hakcoin-project/hakcoin
+	url = https://github.com/hakcoin-project/hakcoin.git
 	ignore = all
